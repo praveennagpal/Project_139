@@ -1,0 +1,48 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+    text-align: center;
+    font-size: 22px;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+#start {
+    font-size: 20px;
+}
+
+#status, #restart {
+    font-size: 16px;
+}
+
+body {
+    background-size: cover;
+}
+
+#footer {
+    position: fixed;
+    margin-bottom: 0;
+    color: rgb(42, 40, 40);
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    line-height: 2;
+    text-align: center;
+  }
+
+.modal-dialog {
+    width: 90%;
+    ;
+}
+
+.modal-body {
+    text-align: left;
+    font-size: 16px;
+}
